@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="403b69a0-e2a8-4be7-8302-1b8052317204" name="Default Changelist" comment="尝试进行第一次更改" />
+    <list default="true" id="403b69a0-e2a8-4be7-8302-1b8052317204" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/demo-module-1/src/com/chen/TestMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-module-1/src/com/chen/TestMain2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,22 +71,38 @@
       <option name="presentableId" value="Default" />
       <updated>1626688019031</updated>
       <workItem from="1626688020963" duration="828000" />
-      <workItem from="1626688889875" duration="170000" />
+      <workItem from="1626688889875" duration="567000" />
     </task>
+    <task id="LOCAL-00001" summary="尝试进行第一次更改">
+      <created>1626689227853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626689227853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="尝试进行第一次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试进行第一次更改" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1626689224564">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1626689224564" />
     <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1626689042432">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1626689042432" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1626689061855">
+    <state x="270" y="0" key="SettingsEditor" timestamp="1626689449750">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1626689061855" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1626689449750" />
     <state x="178" y="27" key="new project wizard" timestamp="1626688093726">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
