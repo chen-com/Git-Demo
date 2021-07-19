@@ -3,9 +3,13 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="403b69a0-e2a8-4be7-8302-1b8052317204" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demo-module-1/src/com/chen/TestMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-module-1/src/com/chen/TestMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,21 +46,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -71,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1626688019031</updated>
       <workItem from="1626688020963" duration="828000" />
-      <workItem from="1626688889875" duration="865000" />
+      <workItem from="1626688889875" duration="2648000" />
+      <workItem from="1626707386340" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="尝试进行第一次更改">
       <created>1626689227853</created>
@@ -87,38 +97,90 @@
       <option name="project" value="LOCAL" />
       <updated>1626689564496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="尝试进行第二次更改">
+      <created>1626689780416</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626689780416</updated>
+    </task>
+    <task id="LOCAL-00004" summary="尝试进行第四次更改">
+      <created>1626689830323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1626689830323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="尝试进行第一次更改" />
     <MESSAGE value="尝试进行第二次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="尝试进行第二次更改" />
+    <MESSAGE value="尝试进行第四次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试进行第四次更改" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1626689561486">
+    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1626689827351">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1626689561486" />
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1626689770757">
+    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1626689827351" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1626698699583">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1626689770757" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1626689042432">
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1626698699583" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1626699285597">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1626689042432" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1626689449750">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1626699285597" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1626707478635">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1626689449750" />
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1626689569052">
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1626707478635" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1626689838091">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1626689569052" />
+    <state x="361" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1626689838091" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1626689770757">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
